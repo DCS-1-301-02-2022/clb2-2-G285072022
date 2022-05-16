@@ -2,8 +2,10 @@
 <!-- Markdown記法を使って学科の紹介ページを作る --> 
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
 
-##目的
+##　目的
+
 ***コンピュータに関する専門知識を蓄え、情報化社会での新たな業界リーダーの育成。***
+
 最近は情報化によって人工知能などと触れる機会が増えている
 https://www.mhlw.go.jp/wp/hakusyo/roudou/11/dl/02-1-4.pdf
 ##コース
